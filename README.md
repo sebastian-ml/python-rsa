@@ -1,3 +1,3 @@
 # Python RSA Implementation
 
-RSA implamentation made for academic purposes.
+RSA implementation made for academic purposes.
